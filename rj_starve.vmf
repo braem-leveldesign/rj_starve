@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8163"
-	"mapversion" "757"
+	"mapversion" "758"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -92,7 +92,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "757"
+	"mapversion" "758"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -29068,7 +29068,7 @@ world
 		{
 			"id" "20105"
 			"plane" "(2432 352 -1472) (2976 352 -1472) (2976 -192 -1472)"
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[1 0 0 0] 15"
 			"vaxis" "[0 -1 0 0] 15"
 			"rotation" "0"
@@ -29079,7 +29079,7 @@ world
 		{
 			"id" "20104"
 			"plane" "(2432 -192 -1504) (2976 -192 -1504) (2976 352 -1504)"
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[1 0 0 63.998] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -29090,7 +29090,7 @@ world
 		{
 			"id" "20103"
 			"plane" "(2976 352 -1504) (2976 -192 -1504) (2976 -192 -1472)"
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -29101,7 +29101,7 @@ world
 		{
 			"id" "20102"
 			"plane" "(2432 352 -1504) (2976 352 -1504) (2976 352 -1472)"
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -29112,7 +29112,7 @@ world
 		{
 			"id" "20101"
 			"plane" "(2976 -192 -1504) (2432 -192 -1504) (2432 -192 -1472)"
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -29123,7 +29123,7 @@ world
 		{
 			"id" "20100"
 			"plane" "(2432 -192 -1504) (2432 352 -1504) (2432 352 -1472)"
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
